@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+header {
+  display: flex;
+  height: 80px;
+  align-items: center;
+  background: black;
+justify-content: center;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+main {
+ margin: 0 auto;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.post {
+ width: 80%;
+text-align: center;
+}
+
+.post img {
+    width: 100%;
+}
+
+.post__buttons {
+margin: 10px 0 20px;
+}
+
+.post__buttons button {
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  background: red;
+  padding: 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+

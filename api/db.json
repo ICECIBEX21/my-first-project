@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "img": "https://avatars.mds.yandex.net/get-altay/4432502/2a000001807f676c88eb0f64160abedbba23/XXL_height",
+      "title": "pizza",
+      "descr": "Description"
+    },
+    {
+      "id": "2",
+      "img": "https://cdn-m.sport24.ru/m/c021/a96b/3e9a/4ed3/9258/b401/eb8b/533f/1600_10000_max.jpeg",
+      "title": "hot-dog",
+      "descr": "Description"
+    },
+    {
+      "id": "3",
+      "img": "https://avatars.mds.yandex.net/i?id=e97f31415dfd16b037650370f7e020a4e5abe709-10354607-images-thumbs&n=13",
+      "title": "burger",
+      "descr": "Description"
+    },
+    {
+      "id": "4",
+      "img": "https://w7.pngwing.com/pngs/507/328/png-transparent-coca-cola-soft-drink-diet-coke-bottle-coca-cola-packaging-food-food-packaging-the-cocacola-company.png",
+      "title": "koka-kola",
+      "descr": "Description"
+    }
+  ]
+}
