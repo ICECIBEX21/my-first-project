@@ -1,19 +1,27 @@
-const API = `http://localhost:3000/posts`
+// const API = `http://localhost:3000/posts`
 
-const content = document.querySelector("#content")
+// const content = document.querySelector("#content")
 
-fetch(API)
-.then((response) => {
- return response.json();
-})
-.then(data => {
-   renderPosts(data);
-})
+// fetch(API)
+// .then((response) => {
+//  return response.json();
+// })
+// .then(data => {
+//    renderPosts(data);
+// })
+
+const posts = [
+   {
+
+   }
+]
+
+// git status - есть ли какие-то изменения
 
 const renderPosts = (posts) => {
 
    posts.map(post => {
-   content.innerHTML += `
+   content.innerHTMLc += `
    <div class="post">
    <img src="${post.img}" alt="">
    <div>
